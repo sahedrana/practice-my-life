@@ -1,0 +1,23 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 80px;
+}
+h3{
+    font-size: 40px;
+}
+.title-color{
+    color: orangered;
+}
+.flex-cont{
+   display: flex;
+   margin-bottom: 100px;
+}
+.half-hobe{
+    width: 40%;
+    padding-left: 5%;
+}
+..half-hobe img{
+    width: 80%;
+}
